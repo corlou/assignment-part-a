@@ -56,6 +56,48 @@ This app will focus on a small studio in Brisbane, Csolta Pole Studio, that has 
 
 ## Question 4: User Stories
 
+We decided to develop the user personas and stories together; we knew it would be a fun task using our creative brains to identify each app user's goals, motivations and frustrations, and craft stories based on these elements. This involved several conversations about the pole studio and its users:
+
+- What does the pole studio offer?
+- Who is/are the teachers? What is their experience and background?
+- How do teachers structure classes?
+- Who are the students? How often do they attend?
+- What are the specific challenges faced at the studio, and during classes?
+
+Following on from our discovery phase, we decided to create three users and assigned users to a specific team member. We would then review each other's work in progress and provide feedback and suggestions on how to improve outputs.
+
+The first user story focused on the teacher and what they would need from Move Mentor. Rafaela is the studio owner and main teacher at CSolta pole studio. She uses her phone to search for moves during class time. While this process doesn't take up a lot of class time, it does come across as slightly disorganised. It's also safe to assume that she spends a lot of time outside of class researching appropriate moves for different classes with varying student abilities.
+
+Karla interviewed Corina about what it's like to be a pole teacher including lesson planning and compared it to what Rafaela is currently doing. Through the discovery process and after several iterations, Karla developed a user persona and three story points from the perspective of a teacher. Below is the card we used for the Teacher Story.
+
+<div style="page-break-after: always"></div>
+
+**Teacher:**
+
+<img title="button design" alt="" src="images/q4/user_persona_teacher.png">
+
+Next came two different types of students: casual and dedicated. A casual student comes to class to have fun in a supportive social environment, while a dedicated student usually attends classes several times a week, researches new moves to try, and cares about technique.
+
+<div style="page-break-after: always"></div>
+
+**Casual Student:**
+
+<img title="button design" alt="" src="images/q4/user_persona_casual_student.png">
+
+Karla took on the challenge of creating a casual student persona. Thinking from the mindset of a working mum with little time to pursue leisure activities, some goals, motivations and frustrations were identified. From there, three casual student stories were developed.
+
+<div style="page-break-after: always"></div>
+
+**Dedicated Student:**
+
+<img title="button design" alt="" src="images/q4/user_persona_dedicated_student.png">
+
+Corina created a persona for the dedicated student. This wasn't too much of a challenge as she used to be one but there was a challenge of making the user stories short and specific. With the help of Karla's pattern of other user stories, Corina was able to get her user stories to the point which could then be used as inspiration for features in the app.
+
+By taking an approach of discovery, and trying to identify the broader goals, motivations and frustrations of each user when it comes to pole dancing, we were able to craft user stories that helped us to identify key problems that the Move Mentor app can solve.
+
+As with other parts of the project we used agile methodology effectively to plan our workflow - an initial collaboration, then assigning team members to develop each persona, and regularly reviewing each other's work in progress. This ensured the final user personas and stories were fit for use, and could help us further develop the Move Mentor app.
+
 <div style="page-break-after: always"></div>
 
 ## Question 5: Wireframes for multiple standard screen sizes, created using industry standard software
