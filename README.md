@@ -8,7 +8,7 @@ When it comes to yoga, there is a standard of move names. No matter where you ar
 
 #### Target Audience:
 
-This app will focus on a small studio in Brisbane, Csolta Pole Studio, that has mixed level classes. The target audience will be the teacher and students of Csolta. The teacher uses her phone to search for moves to teach but there is no history of moves she has taught. Furthermore, students can't remember what they have learned and aren't able to search online because of the different move names.
+This app will focus on a small studio in Brisbane, CSolta Pole Studio, that has mixed level classes. The target audience will be the teacher and students of CSolta. The teacher uses her phone to search for moves to teach but there is no history of moves she has taught. Furthermore, students can't remember what they have learned and aren't able to search online because of the different move names.
 
 #### Functionality/Features:
 
@@ -55,6 +55,7 @@ The Move Mentor data flow diagram maps out the flow of information between entit
 The application architecture diagram visually represents the structure of the Move Mentor app, the relationship between its components, and the flow of data. The Move Mentor app is made up of three components: a front-end, back-end and database.
 
 Symbol representations:
+
 - Vertical rectangle for components.
 - Rounded horizontal rectangles for frameworks and languages.
 - Hexagons for deployment platforms.
@@ -114,11 +115,13 @@ As with other parts of the project we used agile methodology effectively to plan
 ## Question 5: Wireframes for multiple standard screen sizes, created using industry standard software
 
 #### Introduction
+
 High-fidelity wireframes were created using Figma. With the short timeframe to design, test, develop and deploy a full stack app, high-fidelity wireframes have allowed us to go beyond placeholder text and images and capture the look and feel of the Move Mentor app including content, typefaces, colours and image dimensions (Moqups 2023). We took a mobile first approach to the wireframe designs, because most users will be using the app on their mobile phone, either in class or just prior to class for preparation purposes. Corina designed the wireframes in mobile and desktop sizes, and has also created a prototype on mobile. The prototype clearly shows the app flow, from initial login or sign up, through to viewing moves, and assigning and deleting moves (for teachers). The wireframes and prototype also clearly show intended actions and functions based on a user's click of a button or link.
 
 [View all wireframes and the prototype in Figma](https://www.figma.com/file/BlgOBHzTnKIDA6QwaSd5eT/Full-Stack-App%3A-Part-A?type=design&node-id=0%3A1&mode=design&t=gClNEHdu0sEVweO8-1)
 
 #### Discussion
+
 The time spent on phones vs time spent dancing. Pole fitness can be an expensive sport, with participants wanting to maximise their class time. Therefore, this app has to be functional yet minimal. Careful consideration and thoughtful planning is essential. Intended actions, simple functions, relationships between screens, spacing and content prioritisation are all at the forefront when designing this app.
 
 As Corina explains:
@@ -190,12 +193,13 @@ After many iterations and feedback from a few sources, the final designs are rea
 
 ## Question 6: Screenshots of Trello Board
 
-We used the following platforms for project management and planning:  
+We used the following platforms for project management and planning:
+
 - Trello for agile planning, executing and evaluating cycles. We created a card for each task of the project and assigned a team member and due date. We used the Trello cards to share questions, feedback and important information and links. Tasks were assigned to lists that followed the workflow states of to do, in progress, in review, blocked and done. As we progressed with each task, we moved our task cards to the relevant workflow state. [View the Trello board](https://trello.com/b/FzbSu39R)
 - Google Drive for sharing of documentation, dataflow and app architecture diagrams, images, and any other important pieces of information to help us successfully complete part A of the project.
 - Discord chat for sharing quick updates of our progress, asking questions and providing feedback. We also scheduled formal meetings using video conferencing so we could share screens and our work in progress.
 
-Throughout part A we used agile methodology by breaking the project down into phases. Specifically, each question of the assignment was considered a task that was moved into a specific phase of planning, executing and evaluating. We continually collaborated by sharing feedback and ideas, and were always looking at ways to improve the outcome or final output of each task. For example, the wireframes and dataflow diagram went through several review phases as we discovered gaps in our thinking, and new ways of solving each problem. We’ll continue to use agile methodology for part B, as it allows us to be flexible and focus on constant improvements in a fast-paced 3 weeks of development.
+Throughout Part A, we used agile methodology by breaking the project down into phases. Specifically, each question of the assignment was considered a task that was moved into a specific phase of planning, executing and evaluating. We continually collaborated by sharing feedback and ideas, and were always looking at ways to improve the outcome or final output of each task. For example, the wireframes and dataflow diagram went through several review phases as we discovered gaps in our thinking, and new ways of solving each problem. We'll continue to use agile methodology for Part B, as it allows us to be flexible and focus on constant improvements in a fast-paced 3 weeks of development.
 
 <img title="trello screenshot - before work started" alt="" src="images/trello/2023-06-29_a.png">
 <img title="trello screenshot - work is in review" alt="" src="images/trello/2023-07-01_d.png">
@@ -208,6 +212,6 @@ Throughout part A we used agile methodology by breaking the project down into ph
 
 ## References
 
-Chi, C 2021, ‘A Beginner's Guide to Data Flow Diagrams’, *HubSpot*, web log post, 13 May, viewed 1 July 2023, https://blog.hubspot.com/marketing/data-flow-diagram 
+Chi, C 2021, ‘A Beginner's Guide to Data Flow Diagrams’, _HubSpot_, web log post, 13 May, viewed 1 July 2023, https://blog.hubspot.com/marketing/data-flow-diagram
 
-Moqups 2023, *'What is a high fidelity wireframe?'*, viewed 1 July 2023, https://moqups.com/templates/wireframes-mockups/high-fidelity-wireframe/
+Moqups 2023, _'What is a high fidelity wireframe?'_, viewed 1 July 2023, https://moqups.com/templates/wireframes-mockups/high-fidelity-wireframe/
