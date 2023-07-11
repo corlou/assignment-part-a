@@ -46,7 +46,7 @@ This app will focus on a small studio in Brisbane, Csolta Pole Studio, that has 
 
 The Move Mentor data flow diagram maps out the flow of information between entities (students and teachers), database documents (students, teachers, classes, moves) and processes. The diagram uses Yourdon & DeMarco notation to represent entities, data stores, processes and flows.
 
-<img title="dataflow diagram page 1" alt="" src="images/q2/dataflow_diagram.jpg">
+<img title="dataflow diagram" alt="" src="images/q2/dataflow_diagram.jpg">
 
 <div style="page-break-after: always"></div>
 
@@ -85,7 +85,7 @@ Karla interviewed Corina about what it's like to be a pole teacher including les
 
 **Teacher:**
 
-<img title="button design" alt="" src="images/q4/user_persona_teacher.png">
+<img title="Persona card for user stories - Teacher" alt="" src="images/q4/user_persona_teacher.png">
 
 Next came two different types of students: casual and dedicated. A casual student comes to class to have fun in a supportive social environment, while a dedicated student usually attends classes several times a week, researches new moves to try, and cares about technique.
 
@@ -93,7 +93,7 @@ Next came two different types of students: casual and dedicated. A casual studen
 
 **Casual Student:**
 
-<img title="button design" alt="" src="images/q4/user_persona_casual_student.png">
+<img title="Persona card for user stories - Casual Student" alt="" src="images/q4/user_persona_casual_student.png">
 
 Karla took on the challenge of creating a casual student persona. Thinking from the mindset of a working mum with little time to pursue leisure activities, some goals, motivations and frustrations were identified. From there, three casual student stories were developed.
 
@@ -101,7 +101,7 @@ Karla took on the challenge of creating a casual student persona. Thinking from 
 
 **Dedicated Student:**
 
-<img title="button design" alt="" src="images/q4/user_persona_dedicated_student.png">
+<img title="Persona card for user stories - Dedicated Student" alt="" src="images/q4/user_persona_dedicated_student.png">
 
 Corina created a persona for the dedicated student. This wasn't too much of a challenge as she used to be one but there was a challenge of making the user stories short and specific. With the help of Karla's pattern of other user stories, Corina was able to get her user stories to the point which could then be used as inspiration for features in the app.
 
@@ -151,7 +151,7 @@ Since the studio currently doesn't have a logo or colour theme, we had the freed
 But, then we thought about what the teacher colours should look like so that it is distinctive from the student account but still keeps the same feel.
 
 **Teacher Colours:**
-<img title="colours for student login" alt="" src="images/q5/colours_teacher.png">
+<img title="colours for teacher login" alt="" src="images/q5/colours_teacher.png">
 
 We changed the primary colour to purple and left the rest as is because a lot of the components will be reused to keep our code DRY while also giving a connected feel to the app i.e. same app but different levels of access.
 
@@ -186,3 +186,8 @@ After many iterations and feedback from a few sources, the final designs are rea
 ## Question 6: Screenshots of Trello Board
 
 <img title="trello screenshot - before work started" alt="" src="images/trello/2023-06-29_a.png">
+<img title="trello screenshot - work is in review" alt="" src="images/trello/2023-07-01_d.png">
+<img title="trello screenshot - discussion and collaboration on Architecture" alt="" src="images/trello/2023-07-03_d.png">
+<img title="trello screenshot - added more cards to Trello" alt="" src="images/trello/2023-07-03_i.png">
+<img title="trello screenshot - added due dates to certain tasks" alt="" src="images/trello/2023-07-06_a.png">
+<img title="trello screenshot - part B work started = Deploy to Netlify" alt="" src="images/trello/2023-07-07_g.png">
