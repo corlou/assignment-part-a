@@ -1,10 +1,10 @@
 ## Question 1: Description of your website
 
-#### Problem and Solution (aka Purpose):
+#### Problem and Solution:
 
 When it comes to yoga, there is a standard of move names. No matter where you are in the world, all students and teachers can identify the poses.
 
-However, when it comes to pole fitness, move names vary wildly from studio to studio (with the exception of famous moves).
+However, when it comes to pole fitness, move names vary wildly from studio to studio (with the exception of famous moves). So transferring between studios, selecting a category for pole competitions, attending pole camps, and even remembering what was taught in class is next to impossible.
 
 **Solution: Create a dictionary of pole moves with images and names.**
 
@@ -44,13 +44,24 @@ This app will focus on a small studio in Brisbane, Csolta Pole Studio, that has 
 
 ## Question 2: Data flow Diagram
 
-<img title="dataflow diagram page 1" alt="" src="images/q2/dataflow-diagram.jpg">
+The Move Mentor data flow diagram maps out the flow of information between entities (students and teachers), database documents (students, teachers, classes, moves) and processes. The diagram uses Yourdon & DeMarco notation to represent entities, data stores, processes and flows.
+
+<img title="dataflow diagram page 1" alt="" src="images/q2/dataflow_diagram.jpg">
 
 <div style="page-break-after: always"></div>
 
 ## Question 3: Application Architecture Diagram
 
-<img title="architecture of the app and the tools to be used" alt="" src="images/q3/app-architecture.jpg">
+The application architecture diagram visually represents the structure of the Move Mentor app, the relationship between its components, and the flow of data. The Move Mentor app is made up of three components: a front-end, back-end and database.
+
+- Symbol representations:
+- Vertical rectangle for components.
+- Rounded horizontal rectangles for frameworks and languages.
+- Hexagons for deployment platforms.
+- Cylinders for databases.
+- Arrows for data flows.
+
+<img title="architecture of the app and the tools to be used" alt="" src="images/q3/app_architecture.jpg">
 
 <div style="page-break-after: always"></div>
 
