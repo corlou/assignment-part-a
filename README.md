@@ -173,9 +173,9 @@ Sticking to the agile methodology, I asked my team mate Karla for feedback on th
 
 **Original Landing Page for Teachers for either Login or Create New Account:**
 
-<img title="landing pages for teachers" alt="" src="images/q5/landing_pages_teacher.png">
+<img title="landing pages for teacher" alt="" src="images/q5/landing_pages_teacher.png">
 
-**Completed Landing Page for all Users (mobile included):**
+**Completed Landing Page for all Users:**
 
 <img title="landing pages for both teachers and students combined" alt="" src="images/q5/landing_pages_both.png">
 
